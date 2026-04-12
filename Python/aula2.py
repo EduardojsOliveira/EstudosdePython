@@ -1,4 +1,4 @@
-#Se eu colocar um nome ou escrever algo dentro das aspas simples(') ou duplas(") ele ja identifica com str(string)
+#Se eu colocar um nome ou escrever algo dentro das aspas simples(') ou duplas(") ele já identifica com str(string)
 #Para escrever algum texto smepre ultilize aspas simples ou duplas
 #Se colocar \" ou \' ele ignora a aspas e le oque esta escrito
 #Se quiser que a \ aparecera tambem junto com a aspas ou só ela é ultilizado o comando r
