@@ -27,7 +27,7 @@ Neste repositório, você encontrará códigos sobre:
 ---
 
 ## 🛠️ Ferramentas de Estudo
-* **Linguagem:** Python 3.x
+* **Linguagem:** Python 3.12.3
 * **Ambiente:** Ubuntu Linux
 * **Editor de Código:** VS Code
 * **Cursos de Referência:** * Python 3 - Luiz Otávio Miranda (Udemy)
