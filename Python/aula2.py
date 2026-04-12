@@ -8,4 +8,5 @@ print(1234)
 print('Eduardo José')
 print('Eduardo \'José')
 print(r'Eduardo \'José')
-print(2,"Eduardo 'josé'")#O forma que é melhor e mais ultilizada
+print(2,"Eduardo 'josé'", sep= '-')#O forma que é melhor e mais ultilizada para marcar o nome ou algo com aspas
+
