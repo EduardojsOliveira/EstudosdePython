@@ -7,8 +7,7 @@ altura_metros = 1.79
 
 print("Nome:", nome)
 print("Sobrenome:", sobrenome)
-print("Idade", idade)
-print("Data de Nascimento", nascimento)
+print("Idade:", idade)
+print("Data de Nascimento:", nascimento)
 print("Maior de Idade:", maior_idade)
-print("Altura em Metros", altura_metros)
-print(f"ola {nome}")
+print("Altura em Metros:", altura_metros)
